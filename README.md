@@ -1,4 +1,4 @@
-# GoldSilverWPF
+# Gold&Silver
 
 Windows desktop application to fetch current rates of Gold and Silver in INR.
 
